@@ -1,0 +1,9 @@
+{
+  "default_symbol": "اهرم",
+  "default_risk_free_rate": 0.34,
+  "default_capital_rial": 500000000,
+  "default_history_days": 100,
+  "option_buy_commission": 0.00103,
+  "option_sell_commission": 0.00103,
+  "trading_days_per_year": 240
+}
